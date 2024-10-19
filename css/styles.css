@@ -1,0 +1,14 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
+
+.link{
+    color: black;
+}
+
+h1,
+h2,
+p{
+    text-align: center;
+}
